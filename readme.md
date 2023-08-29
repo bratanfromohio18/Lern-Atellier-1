@@ -12,9 +12,9 @@
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Beim Modul 431 weiterarbeiten und noch mal repetieren was ich gemacht habe.
-- [ ] Beim  Modul 319 weiterarbeiten und repetieren.
-- [ ] Anfangen ein bisschen etwas zu programmieren
+- [ x] Beim Modul 431 weiterarbeiten und noch mal repetieren was ich gemacht habe.
+- [ x] Beim  Modul 319 weiterarbeiten und repetieren.
+- [ x] Anfangen ein bisschen etwas zu programmieren
 - [ ] Ich will ein Franzvokabelnlern programm anfangen
 Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. Ich habe mir überlegt, einen Sneaker Bot zu programmieren und ich bin bei dem Bot stehen geblieben. Dann habe ich im Modul 431 ein bisschen Repetiert und habe mir die Sachen angeschaut und gelöst. Dann habe ich ein bisschen programmiert und ich habe ein Glückszahlgenerator gemacht. Der Glückszahlgenerator ist gut geworden und ich habe gut gearbeitet.
 69 Wörter
