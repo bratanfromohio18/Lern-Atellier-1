@@ -16,5 +16,13 @@
 - [ ] Beim  Modul 319 weiterarbeiten und repetieren.
 - [ ] Anfangen ein bisschen etwas zu programmieren
 - [ ] Ich will ein Franzvokabelnlern programm anfangen
+Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. Ich habe mir überlegt, einen Sneaker Bot zu programmieren und ich bin bei dem Bot stehen geblieben. Dann habe ich im Modul 431 ein bisschen Repetiert und habe mir die Sachen angeschaut und gelöst. Dann habe ich ein bisschen programmiert und ich habe ein Glückszahlgenerator gemacht. Der Glückszahlgenerator ist gut geworden und ich habe gut gearbeitet.
+69 Wörter
 
+## Arbeitspakete für 05.09.2023
+
+- [ ] Ich möchte bei meinem Sneakerbot weiterarbeiten und das Problem bewältigen.
+- [ ] Das Modul 431 nochmal anschauen
+- [ ] Den Glückszahlgenerator erweitern.
+- [ ] Den Vokabelntrainer ausprobieren
       
