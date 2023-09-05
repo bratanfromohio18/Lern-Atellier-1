@@ -22,7 +22,13 @@ Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. I
 ## Arbeitspakete für 05.09.2023
 
 - [ ] Ich möchte bei meinem Sneakerbot weiterarbeiten und das Problem bewältigen.
-- [ ] Das Modul 431 nochmal anschauen
-- [ ] Den Glückszahlgenerator erweitern.
+- [x ] Das Modul 431 nochmal anschauen
+- [x ] Den Glückszahlgenerator erweitern.
 - [ ] Den Vokabelntrainer ausprobieren
+
+ ## Arbeitspakete für 12.09.2023
+-[ ] Beim Modul 431 weiterarbeiten
+-[ ] Beim Modul 319 weiterarbeiten
+-[ ] Witzgenerator machen
+
       
