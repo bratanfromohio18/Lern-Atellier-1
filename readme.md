@@ -27,8 +27,15 @@ Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. I
 - [ ] Den Vokabelntrainer ausprobieren
 
  ## Arbeitspakete für 12.09.2023
--[ ] Beim Modul 431 weiterarbeiten
--[ ] Beim Modul 319 weiterarbeiten
+-[ x] Beim Modul 431 weiterarbeiten
+-[ x] Beim Modul 319 weiterarbeiten
 -[ ] Witzgenerator machen
+Heute habe ich im Modul 431 3 Aufträge nachgeholt und ich bin leider nicht dazu gekommen, den Witzgenerator weiter zu machen.
 
+ ## Arbeitspakte für 19.09.2023
+ - [ ] Am modul 431 weiterarbeiten und ein Expertenziel erledigen
+ - [ ] Am Modul 319 programmieren und die programmier Begriffe verstehen
+ - [ ] Meinen Zahlengenerator erweitern
+ - [ ] Programierprogramme erweitern
+       
       
