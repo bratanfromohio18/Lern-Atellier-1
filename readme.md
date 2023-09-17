@@ -30,7 +30,9 @@ Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. I
 -[ x] Beim Modul 431 weiterarbeiten
 -[ x] Beim Modul 319 weiterarbeiten
 -[ ] Witzgenerator machen
-Heute habe ich im Modul 431 3 Aufträge nachgeholt und ich bin leider nicht dazu gekommen, den Witzgenerator weiter zu machen.
+Heute habe ich im Modul 431 3 Aufträge nachgeholt und ich bin leider nicht dazu gekommen, den Witzgenerator weiter zu machen. 
+Ich habe im Modul 431 weitergearbeitet am Auftrag 1713. Ich habe diesen Auftrag nicht verstanden in der Lektion und bei einem anderen Auftrag weitergemacht und ich habe ihn mir
+auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusätzlich den Auftrag 1720 fertig gemacht weil ich ihn in der Lektion nicht fertig geschafft habe.
 
  ## Arbeitspakte für 19.09.2023
  - [ ] Am modul 431 weiterarbeiten und ein Expertenziel erledigen
