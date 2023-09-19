@@ -39,5 +39,11 @@ auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusät
  - [X ] Am Modul 319 programmieren und die programmier Begriffe verstehen
  - [ ] Meinen Zahlengenerator erweitern
  - [X ] Programierprogramme erweitern
-       
+
+   Heute habe ich den Auftrag 1725 im Modul 431 gemacht. Im Modul 431 habe ich den Auftrag 6911 nachgehohlt, weil ich ihn in der gestrigen Stunde nicht fertiggeschafft habe. Ich bin in der heutigen Stunde zufrieden mit mir, weil ich gut voran gekommen bin und ich habe noch meinen Witzgenerator fertiggestellt. Jedoch konnte ich letztes mal besser arbeiten und ich habe meiner Meinung nach mich besser konzentrieren können. Ich bin trotzdem zufrieden was ich heute erledigt habe.
+
+## Arbeitspakete für 26.09.2023
+- [] Ich will im Modul 431 den Expertenauftrag 1711 machen.
+- [] Ich will im Modul 431 den Expertenauftrag 1712 machen.
+- [] Ich möchte einen Vokabelnlerntrainer anfangen. 
        
