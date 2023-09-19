@@ -35,9 +35,9 @@ Ich habe im Modul 431 weitergearbeitet am Auftrag 1713. Ich habe diesen Auftrag 
 auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusätzlich den Auftrag 1720 fertig gemacht weil ich ihn in der Lektion nicht fertig geschafft habe.
 
  ## Arbeitspakte für 19.09.2023
- - [ ] Am modul 431 weiterarbeiten und ein Expertenziel erledigen
- - [ ] Am Modul 319 programmieren und die programmier Begriffe verstehen
+ - [X] Am modul 431 weiterarbeiten und ein Expertenziel erledigen
+ - [X] Am Modul 319 programmieren und die programmier Begriffe verstehen
  - [ ] Meinen Zahlengenerator erweitern
- - [ ] Programierprogramme erweitern
+ - [X] Programierprogramme erweitern
        
       
