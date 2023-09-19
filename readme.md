@@ -16,6 +16,7 @@
 - [ x] Beim  Modul 319 weiterarbeiten und repetieren.
 - [ x] Anfangen ein bisschen etwas zu programmieren
 - [ ] Ich will ein Franzvokabelnlern programm anfangen
+
 Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. Ich habe mir überlegt, einen Sneaker Bot zu programmieren und ich bin bei dem Bot stehen geblieben. Dann habe ich im Modul 431 ein bisschen Repetiert und habe mir die Sachen angeschaut und gelöst. Dann habe ich ein bisschen programmiert und ich habe ein Glückszahlgenerator gemacht. Der Glückszahlgenerator ist gut geworden und ich habe gut gearbeitet.
 69 Wörter
 
@@ -30,6 +31,7 @@ Ich habe nur die oberen drei ausgefüllt und beim unteren bin ich angestanden. I
 -[ x] Beim Modul 431 weiterarbeiten
 -[ x] Beim Modul 319 weiterarbeiten
 -[ ] Witzgenerator machen
+
 Heute habe ich im Modul 431 3 Aufträge nachgeholt und ich bin leider nicht dazu gekommen, den Witzgenerator weiter zu machen. 
 Ich habe im Modul 431 weitergearbeitet am Auftrag 1713. Ich habe diesen Auftrag nicht verstanden in der Lektion und bei einem anderen Auftrag weitergemacht und ich habe ihn mir
 auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusätzlich den Auftrag 1720 fertig gemacht weil ich ihn in der Lektion nicht fertig geschafft habe.
