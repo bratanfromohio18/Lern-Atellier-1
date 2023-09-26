@@ -52,4 +52,5 @@ auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusät
 Heute habe ich einen Englischtest und ich habe mir gedacht, dass ich den Vokabelntrainer heute mache und es hat gut geklappt. Ich konnte den Vokabelntrainer fertigstellen und ich kann schon Vokabeln lernen mit ihm. Ich habe mich ebenfalls an die Expertenziele gemacht aber ich konnte sie nicht fertig lösen. Ich habe mit dem Expertenauftrag 1711 angefangen und es lief schon ganz gut.
 
 
-       
+## Reflexion
+Ich finde, das ich in dieser Lernperiode vieles dazu gelernt habe im programmieren. Ich finde für mich war es schwierig, Begriffe und anderes vom programmieren, dazu zu lernen. Ich finde für mich selber, das ich noch bisschen produktiver arbeiten könnte, denn ich hatte das Gefühl das ich manchmal zu schnell nachgelassen habe und nicht weitergemacht habe. Ich habe das Gefühl, das ich mich im programmieren noch nicht ganz so sicher fühle und ich finde das ich es besser machen könnte. Ich brauche mehr Übung. Ich will mich mehr konzentrieren in den Unterrichtsstunden. Ich glaube es geht besser wenn ich mir meine Kopfhöhrer anziehe und Musik höhre.
