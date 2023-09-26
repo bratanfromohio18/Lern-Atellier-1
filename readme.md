@@ -47,5 +47,9 @@ auf die Lernatelier Stunden geschoben. Ich konnte ihn lösen und ich habe zusät
 ## Arbeitspakete für 26.09.2023
 - [] Ich will im Modul 431 den Expertenauftrag 1711 machen.
 - [] Ich will im Modul 431 den Expertenauftrag 1712 machen.
-- [] Ich möchte einen Vokabelnlerntrainer anfangen. 
+- [X] Ich möchte einen Vokabelnlerntrainer anfangen.
+
+      Heute habe ich einen Englischtest und ich habe mir gedacht, dass ich den Vokabelntrainer heute mache und es hat gut geklappt. Ich konnte den Vokabelntrainer fertigstellen und ich kann schon Vokabeln lernen mit ihm.       Ich habe mich ebenfalls an die Expertenziele gemacht aber ich konnte sie nicht fertig lösen. Ich habe mit dem Expertenauftrag 1711 angefangen und es lief schon ganz gut.
+
+
        
