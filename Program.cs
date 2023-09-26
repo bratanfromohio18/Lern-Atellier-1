@@ -7,12 +7,12 @@ class VocabQuiz
 {
     static void Main()
     {
-        // Erstelle ein Wörterbuch für Vokabeln (Englisch zu Deutsch).
+        
         Dictionary<string, string> vocabDictionary = new Dictionary<string, string>();
 
 
 
-        // Füge Vokabeln zum Wörterbuch hinzu.
+        
         vocabDictionary.Add("Vocabulary", "Wortschatz");
         vocabDictionary.Add("adventurous", "abenteuerlustig");
         vocabDictionary.Add("ambitious", "ehrgeizig");
@@ -67,7 +67,7 @@ class VocabQuiz
 
 
 
-        // Durchlaufe das Wörterbuch und frage nach Übersetzungen.
+        
         foreach (var kvp in vocabDictionary)
         {
             Console.WriteLine($"Wie lautet die deutsche Übersetzung von '{kvp.Key}'?");
